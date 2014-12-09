@@ -1,5 +1,5 @@
- 	yearseq	year	seq	dis_group	dis_subgroup	dis_type	dis_subtype	dis_subsubtype	event_name	country_name	iso	region	continent	location	associated_dis	associated_dis2	start_year	start_month	start_day	end_year	end_month	end_day	no_killed	no_injured	no_affected	no_homeless	total_affected	total_dam ('000 US$)	Notes
-19982_BGD	19982	1998	2	Natural	2004735_KHM	Extreme temperature	Cold wave	--		Bangladesh	BGD	Southern Asia	Asia	Jessore, Rajshahi, Khulna			1998	1	9	1998	1	9	120	0	34000	0	34000	0	
+yearseq_iso	yearseq	year	seq	dis_group	dis_subgroup	dis_type	dis_subtype	dis_subsubtype	event_name	country_name	iso	region	continent	location	associated_dis	associated_dis2	start_year	start_month	start_day	end_year	end_month	end_day	no_killed	no_injured	no_affected	no_homeless	total_affected	total_dam ('000 US$)	Notes
+19982_BGD	19982	1998	2	Natural	Meteorological	Extreme temperature	Cold wave	--		Bangladesh	BGD	Southern Asia	Asia	Jessore, Rajshahi, Khulna			1998	1	9	1998	1	9	120	0	34000	0	34000	0	
 199848_PAK	199848	1998	48	Natural	Hydrological	Flood	--	--		Pakistan	PAK	Southern Asia	Asia	Kech Valley (Baluchistan province)			1998	3	2	1998	3	5	1000	0	200000	0	200000	0	
 199857_IDN	199857	1998	57	Natural	Climatological	Wildfire	Forest fire	--		Indonesia	IDN	South-Eastern Asia	Asia	Kalimatan Province (Borneo Isl.)			1998	3		1998	4		3	0	2000	0	2000	1300000	
 199857_MYS	199857	1998	57	Natural	Climatological	Wildfire	Forest fire	--		Malaysia	MYS	South-Eastern Asia	Asia				1998	3	4	1998	5	30	0	0	0	0	0	2000	
@@ -937,5 +937,5 @@
 																													
 																													
 		Created on: January 22, 2014. - Data version: v12.07																											
-		Source: "EM-DAT: The OFDA/CRED International Disaster Database																											
-		www.emdat.be - Université Catholique de Louvain - Brussels - Belgium"																											
+		"Source: ""EM-DAT: The OFDA/CRED International Disaster Database"																											
+		"www.emdat.be - Université Catholique de Louvain - Brussels - Belgium"""																											
